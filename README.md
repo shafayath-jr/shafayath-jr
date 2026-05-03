@@ -4,13 +4,13 @@
 
 <!-- SOCIAL LINKS -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/shafayath-jamil" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/shafayath-jamil" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linktr.ee/shafayath_jr" style="text-decoration: none;">
+  <a href="https://linktr.ee/shafayath_jr" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
-  <a href="https://dev.to/shafayath-jr" style="text-decoration: none;">
+  <a href="https://dev.to/shafayath-jr" style="text-decoration: none !important;">
     <img src="https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=shafayath-jr&style=for-the-badge&color=ff9500" alt="Profile Views" />
