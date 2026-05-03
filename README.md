@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Shafayath%20Jamil%20Rafi&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Multi-Disciplinary%20Software%20Engineer%20|%20Full-Stack%20•%20Mobile%20App%•AI" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Shafayath%20Jamil%20Rafi&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Multi-Disciplinary%20Software%20Engineer%20|%20Full-Stack%20•%20Mobile%20App%•AI" width="100%" />
 </div>
 
 <!-- SOCIAL LINKS -->
@@ -21,10 +21,10 @@
 ## About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+specializing+in+Mobile+App+Development;Expertise+in+Flutter%2C+Cloud+Native+Architectures%2C+and+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+specializing+in+Full-Stack+Development%2C+;Mobile+App+Development%2C+Cloud+Architectures%2C+and+AI+Integration" alt="Typing SVG" />
 </div>
 
-A Software Engineer from **Chittagong, Bangladesh**, currently working at **Planet Education Networks**. I am a **CUET graduate** with a passion for architecting scalable applications and creating seamless mobile experiences.
+Software Engineer from Chattogram, Bangladesh 🇧🇩, currently working at PEN Global and a graduate of CUET. Passionate about building scalable applications, seamless mobile experiences, and turning complex problems into elegant digital solutions.
 
 **Current Focus:** Mastering Flutter, exploring AI-driven automation, and building cloud-native architectures.
 
