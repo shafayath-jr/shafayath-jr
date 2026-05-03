@@ -21,10 +21,10 @@
 ## About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+specializing+in+Full-Stack+Development%2C+;Mobile+App+Development%2C+Cloud+Architectures%2C+and+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Software+Engineer+specializing+in+Full-Stack+Development%2C+;Mobile+App+Development%2C+Cloud+Architectures%2C+and+AI+Integration" alt="Typing SVG" />
 </div>
 
-Software Engineer from Chattogram, Bangladesh 🇧🇩, currently working at PEN Global and a graduate of CUET. Passionate about building scalable applications, seamless mobile experiences, and turning complex problems into elegant digital solutions.
+Software Engineer from **Chittagong, Bangladesh**, currently working at **PEN Global** and a graduate of **CUET**. Passionate about building scalable applications, seamless mobile experiences, and turning complex problems into elegant digital solutions.
 
 **Current Focus:** Mastering Flutter, exploring AI-driven automation, and building cloud-native architectures.
 
