@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Shafayath%20Jamil%20Rafi&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Mobile%20App%20Developer%20|%20Full%20Stack%20|%20AI" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=gradient&text=Shafayath%20Jamil%20Rafi&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Multi-Disciplinary%20Software%20Engineer%20|%20Full-Stack%20•%20Mobile%20App%•AI" width="100%" />
 </div>
 
 <!-- SOCIAL LINKS -->
