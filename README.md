@@ -7,10 +7,10 @@
   <a href="https://www.linkedin.com/in/shafayath-jamil" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linktr.ee/shafayath_jr">
+  <a href="https://linktr.ee/shafayath_jr" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Linktree-%2339E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/>
   </a>
-  <a href="https://dev.to/shafayath-jr">
+  <a href="https://dev.to/shafayath-jr" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=shafayath-jr&style=for-the-badge&color=ff9500" alt="Profile Views" />
@@ -21,7 +21,7 @@
 ## About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Software+Engineer+specializing+in+Full-Stack+Development%2C+;Mobile+App+Development%2C+Cloud+Architectures%2C+and+AI+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Software+Engineer+specializing+in+Full-Stack+Development%2C+;Mobile+App+Development%2C+Cloud+Architectures%2C+and+AI+Integration" alt="Typing SVG" />
 </div>
 
 Software Engineer from **Chittagong, Bangladesh**, currently working at **PEN Global** and a graduate of **CUET**. Passionate about building scalable applications, seamless mobile experiences, and turning complex problems into elegant digital solutions.
