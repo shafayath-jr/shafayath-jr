@@ -13,9 +13,6 @@
   <a href="https://dev.to/shafayath-jr">
     <img src="https://img.shields.io/badge/-Dev.to-%230A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community"/>
   </a>
-  <a href="https://github.com/shafayath-jr/shafayath-jr">
-    <img src="https://img.shields.io/badge/GitHub-Profile-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=shafayath-jr&style=for-the-badge&color=ff9500" alt="Profile Views" />
 </div>
 
